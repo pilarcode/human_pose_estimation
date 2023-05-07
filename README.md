@@ -7,7 +7,7 @@ The MediaPipe Pose Landmarker task lets you detect the landmarks of human bodies
 
 ![Pose Estimation](https://github.com/pilarcode/human_pose_estimation/blob/main/docs/output.png)
 
-
+### Notebooks 
 - [x] [Intro Key Points] https://github.com/pilarcode/human_pose_estimation/blob/main/notebooks/IntroMediaPipe.ipynb
 - [x] [Pose estimation in images] https://github.com/pilarcode/human_pose_estimation/blob/main/notebooks/PoseEstimation_Image.ipynb
 - [x] [Pose estimation in videos] https://github.com/pilarcode/human_pose_estimation/blob/main/notebooks/PoseEstimation_Video.ipynb
